@@ -2,11 +2,13 @@
 C# code snippets for Visual Studio.
 
 # Snippets
-1. single -> apply singleton pattern to a class.
-2. cctor  -> create copy constructor.
-3. func   -> create editable functuion.
-4. afunc  -> create editable async function.
-5. cr     -> snippet for Console.ReadLine().
+|shortcut | description|
+|---------|------------|
+|single   | apply singleton pattern to a class.|
+|cctor    |create copy constructor.|
+|func     |create editable functuion.|
+|afunc    |create editable async function.|
+|cr       |snippet for Console.ReadLine().|
 
 # Setup
 1. save **Snippets** folder on your machine.
