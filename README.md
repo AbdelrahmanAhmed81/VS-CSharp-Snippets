@@ -9,6 +9,7 @@ C# code snippets for Visual Studio.
 |func     |create editable functuion.|
 |afunc    |create editable async function.|
 |cr       |snippet for Console.ReadLine().|
+|cs       |snippet for adding console seperator line.|
 
 # Setup
 1. save **Snippets** folder on your machine.
